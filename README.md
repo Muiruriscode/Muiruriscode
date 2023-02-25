@@ -9,7 +9,7 @@ I develop front end websites using React. I work comfortably with Next.js, tailw
 ### Mobile development
 I deveolop mobile apps using React native and currently learning Kotlin for android apps
 
-### Desktop developpment
+### Desktop development
 I create desktop apps using python and Java.
 
 ## Contact Me
