@@ -1,13 +1,13 @@
 ### Hi there 👋
 
 ## Description
-I am dennis Muiruri a web developer based in Kenya. I am a Computer Science graduate from Machakos University. I use the skills that i have acquired to enable people meet the needs that they encounter in their day to day life.
+I am dennis Muiruri a web developer based in Kenya. I am a Computer Science graduate from Machakos University. I use the skills that I have acquired to enable people meet the needs they have in their day to day life.
 
 ### Web Development
-I develop front end websites using React. I work comfortably with Next.js, tailwind css, material ui, typescript, vanilla javascript, styled components nad J query. I aslo develop backend systems using Node.js, express.js, Mongo DB and SQL. I am currently working on developing intelligent web systems using Tensolflow.js by creating intelligent models. I am also learning Wen 3.0.
+I develop front end websites using React. I work comfortably with Next.js, tailwind css, material ui, typescript, vanilla javascript, styled components and J query. I aslo develop backend systems using Node.js, express.js, Mongo DB and SQL. I am currently working on developing intelligent web systems using Tensolflow.js. I am also learning Web 3.0.
 
 ### Mobile development
-I deveolop mobile apps using React native and currently learning Kotlin for android apps
+I develop mobile apps using React native and currently learning Kotlin for android apps
 
 ### Desktop development
 I create desktop apps using python and Java.
